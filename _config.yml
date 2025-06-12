@@ -43,26 +43,26 @@ repository: 'digitalarcplatform/demo' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "A Sample DigitalArc Collection Site"
+title: "Alec W. Smitten"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An exhibit platform for collective storytelling & community archives"
+subtitle: "A Digital Portfolio"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "DigitalArc Community Archiving Template - Demo Site"
+description: "A portfolio of academic accomplishments for Alec W. Smitten"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "DigitalArc"
-authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
+author: "Alec Smitten"
+authorname : 
 sitelogo: site_logo.jpg
 placeholderimg: placeholder.png
 
 # What year did you start up this community project?
-sitedate : 2024
+sitedate : 2025
 
 # Other community social media. Leave blank if you don't have these.
-email : "digitalarcplatform [at] gmail.com"
+email : 
 website : 
 twitter : 
 github : 
@@ -97,9 +97,9 @@ google_g4_analytics_id: G-LVREG1Y1DT
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
-fontchoice: roboto # A clean sans-serif font with simple serif accents
+#fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: slab # A funky slab font with clean sans-serif accents
-#fontchoice: source # A modern serif font with clean sans-serif accents
+fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
@@ -108,8 +108,8 @@ fontchoice: roboto # A clean sans-serif font with simple serif accents
 #colorchoice: dusk # Dusky purple and olive green
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: leafgreen # Leafy green and medium brown
-#colorchoice: marigold # Near-black with marigold yellow
-colorchoice: navy # Navy with bright teal and grey
+colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: navy # Navy with bright teal and grey
 #colorchoice: red # Black, crimson and grey
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
