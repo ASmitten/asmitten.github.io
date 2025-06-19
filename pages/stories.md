@@ -1,5 +1,7 @@
 ---
-title: Our Stories
+title: Digital Work
 layout: stories
-permalink: /stories
+permalink: /digital
 ---
+
+### Digital Work
