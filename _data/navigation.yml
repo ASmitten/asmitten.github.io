@@ -5,12 +5,17 @@
   excerpt:
   image:
 
-- title: Curriculum Vitae
-  url: /CV
+- title: Research
+  url: /research
   excerpt:
   image:
 
 - title: Digital Work 
   url: /digital
+  excerpt: 
+  image: 
+  
+- title: Curriculum Vitae
+  url: /CV
   excerpt: 
   image: 
