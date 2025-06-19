@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-layout: default
+layout: archive
 permalink: /CV
 ---
 
