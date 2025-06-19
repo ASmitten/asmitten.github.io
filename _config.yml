@@ -46,7 +46,7 @@ repository: 'digitalarcplatform/demo' # change this to your repository name
 title: "Alec W. Smitten"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "A Digital Portfolio"
+subtitle: "Classicist, Grammarian, Digital Humanist"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: "A portfolio of academic accomplishments for Alec W. Smitten"
@@ -62,10 +62,10 @@ placeholderimg: placeholder.png
 sitedate : 2025
 
 # Other community social media. Leave blank if you don't have these.
-email : 
-website : 
+email : smittena [at] iu.edu
+website : "https://www.asmitten.github.io/"
 twitter : 
-github : 
+github : ASmitten
 facebook : 
 instagram : 
 
@@ -139,7 +139,7 @@ collections:
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
 # This will usually be blank. If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (idahatiu.github.io) add that folder name here with a slash / in front of it (e.g. /communityarchive).
-baseurl: ""
+baseurl: 
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
