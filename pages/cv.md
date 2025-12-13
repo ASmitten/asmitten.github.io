@@ -9,20 +9,21 @@ permalink: /CV
 	Ph. D.: 								August 2023 – May 2028 (expected)
 
 - Classical Studies
+- Advisor: [Bill Beck](https://classics.indiana.edu/about/core-faculty/beck-bill.html)
 
 **Utah State University**:
 	Master of Arts:						August 2019 – May 2021
 
-- Ancient Languages and Cultures			
+- Ancient Languages and Cultures	
 - Advisor: Mark Damen
 - Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
 
 **Vanderbilt University**:						
 	Bachelor of Arts:					August 2015 – May 2019
 	
--Major: Classical and Mediterranean Studies 
--Major: Philosophy
--Minor: Mathematics
+- Major: Classical and Mediterranean Studies 
+- Major: Philosophy
+- Minor: Mathematics
 
 ### Teaching & Professional Experience 
 
