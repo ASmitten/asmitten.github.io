@@ -5,57 +5,70 @@ permalink: /CV
 ---
 
 ### Education
-**Indiana University - Bloomington** 			
-	Ph. D. 								August 2023 – May 2028 (expected)
-             - Classical Studies
-			 
-**Utah State University**
-	Master of Arts						August 2019 – May 2021
-	 - Ancient Languages and Cultures			
-		Advisor: Mark Damen
-		Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
+**Indiana University - Bloomington**: 			
+	Ph. D.: 								August 2023 – May 2028 (expected)
 
-**Vanderbilt University**						
-	Bachelor of Arts					August 2015 – May 2019
-	 -Major: Classical and Mediterranean Studies 
-	 -Major: Philosophy
-	 -Minor: Mathematics
+- Classical Studies
+
+**Utah State University**:
+	Master of Arts:						August 2019 – May 2021
+
+- Ancient Languages and Cultures			
+- Advisor: Mark Damen
+- Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
+
+**Vanderbilt University**:						
+	Bachelor of Arts:					August 2015 – May 2019
+	
+-Major: Classical and Mediterranean Studies 
+-Major: Philosophy
+-Minor: Mathematics
 
 ### Teaching & Professional Experience 
 
 **Indiana University, Bloomington** 
-LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2025)
-LATIN 100: Beginning Latin (Associate Instructor) (Spring 2025)
-LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2024) 
-LATIN 100: Beginning Latin (Associate Instructor) (Spring 2024) 
-CLAS 205: Classical Mythology (Teaching Assistant) (Fall 2023)
+- LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2025)
+- LATIN 100: Beginning Latin (Associate Instructor) (Spring 2025)
+- LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2024) 
+- LATIN 100: Beginning Latin (Associate Instructor) (Spring 2024) 
+- CLAS 205: Classical Mythology (Teaching Assistant) (Fall 2023)
 
 **Utah State University**
-GREEK 1010/1020: Summer Intensive Course (Instructor of Record, Program Co-Director) (Summer 2023)
-HIST 3210: Classical Mythology (Instructor of Record) (Spring 2023)
-HIST 3130: Greek History (Instructor of Record) (Fall 2022)
-GREEK 1010/1020: Summer Intensive Course (Instructor of Record, Program Co-Director) (Summer 2022)
-GREEK 1010/1020: Summer Intensive Course (Instructor of Record) (Summer 2021)
-HIST 3150: Roman History (Graduate Intern) (Spring 2020)
-LATIN 6800: Member of the Utah State University Latin Lab (Fall 2019 – Present)
-GREEK 1010/1020: Summer Intensive Course (Undergraduate Assistant) (Summer 2018)
+- GREEK 1010/1020: Summer Intensive Course (Instructor of Record, Program Co-Director) (Summer 2023)
+- HIST 3210: Classical Mythology (Instructor of Record) (Spring 2023)
+- HIST 3130: Greek History (Instructor of Record) (Fall 2022)
+- GREEK 1010/1020: Summer Intensive Course (Instructor of Record, Program Co-Director) (Summer 2022)
+- GREEK 1010/1020: Summer Intensive Course (Instructor of Record) (Summer 2021)
+- HIST 3150: Roman History (Graduate Intern) (Spring 2020)
+- LATIN 6800: Member of the [Utah State University Latin Lab](https://artsci.usu.edu/history-cultures-ideas/classics/opportunities/latin-lab/) (Fall 2019 – Present)
+- GREEK 1010/1020: Summer Intensive Course (Undergraduate Assistant) (Summer 2018)
 
 
-### Research Interests 
+### Research Interests & Translation Work
 
 Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Greek and Latin Intertextuality; Hellenistic and Second Sophistic Scholarship; Epicureanism & Didactic Poetry
 
+**Completed Translations**: 
+
+- [Translation and Transcription](https://artsci.usu.edu/history-cultures-ideas/classics/opportunities/latin-lab/translated-texts/heroica-eulogia.pdf) of Poetry in HM 160, Heroica Eulogia, William Bowyer (Co-editors: Mark Damen, Norman Jones, with Abigail Fritz, Dan Porter, Marie Skinner, and Tristan Andrus, Jonah Bibo, Alex Bullock, Jeremy Furner, Jacob Hayden, Jesse Killpack, Virginia McGuffin)
+- [Translation](https://doi.org/10.26076/458a-909f) of entire text of De Diversis Verborum Significationibus, Herennius Philo of Byblos 
+
+**Translations in Progress**:
+
+- Translation of entire text of *On Syntax*, Apollonius Dyscolus
+- Translation of entire text of *De Differentia Adfinium Vocabulorum*, Ammonius Grammaticus
+
 ### Languages 
 
-**Ancient Greek**:		Fluency in Reading
-**Latin**:				Fluency in Reading
-**Syriac Aramaic**:		Proficiency in Reading
-**Imperial Aramaic**:	Proficiency in Reading
-**Avestan**:			Working Knowledge
-**Sanskrit**: 			Working Knowledge
+- **Ancient Greek**:		Fluency in Reading
+- **Latin**:				Fluency in Reading
+- **Syriac Aramaic**:		Proficiency in Reading
+- **Imperial Aramaic**:	Proficiency in Reading
+- **Avestan**:			Working Knowledge
+- **Sanskrit**: 			Working Knowledge
 
-**French**: 			Proficiency in Reading
-**Italian**:			Proficiency in Reading
+- **French**: 			Proficiency in Reading
+- **Italian**:			Proficiency in Reading
 
 
 ### Conference Presentations 
