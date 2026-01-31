@@ -15,7 +15,7 @@ permalink: /CV
 	Master of Arts:						August 2019 – May 2021
 
 - Ancient Languages and Cultures	
-- Advisor: Mark Damen
+- Advisor: [Mark Damen](https://artsci.usu.edu/history-cultures-ideas/history/directory/mark-damen)
 - Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
 
 **Vanderbilt University**:						
@@ -27,7 +27,8 @@ permalink: /CV
 
 ### Teaching & Professional Experience 
 
-**Indiana University, Bloomington** 
+**Indiana University, Bloomington**
+- CLAS 101: Ancient Greek Culture (Teaching Assistant) (Spring 2026)
 - LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2025)
 - LATIN 100: Beginning Latin (Associate Instructor) (Spring 2025)
 - LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2024) 
@@ -69,6 +70,7 @@ Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Greek and La
 - **Sanskrit**: 			Working Knowledge
 
 - **French**: 			Proficiency in Reading
+- **German**:			Proficiency in Reading
 - **Italian**:			Proficiency in Reading
 
 
