@@ -10,6 +10,7 @@ permalink: /CV
 
 - Classical Studies
 - Advisor: [Bill Beck](https://classics.indiana.edu/about/core-faculty/beck-bill.html)
+- Dissertation: TBD
 
 **Utah State University**:
 	Master of Arts:						August 2019 – May 2021
@@ -48,7 +49,7 @@ permalink: /CV
 
 ### Research Interests & Translation Work
 
-Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Greek and Latin Intertextuality; Hellenistic and Second Sophistic Scholarship; Epicureanism & Didactic Poetry
+Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Discourse Semantics; Greek and Latin Intertextuality; Hellenistic and Second Sophistic Scholarship; Epicureanism & Didactic Poetry
 
 **Completed Translations**: 
 
@@ -77,6 +78,8 @@ Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Greek and La
 ### Conference Presentations 
 
 \* = Peer-reviewed
+
+*"Arcula Linguae Latinae*: Using Digital Tools & Methods for Latin Research," Talk delivered to the USU Ancient Languages Laboratory, Utah State University, Logan, Utah, January 2026
 
 \*“Developing Art in the Text: A Look at Acrostics and Telestics in Oppian’s Halieutica,” CAMWS, Urbana-Champaign, Illinois, March 2025
 
