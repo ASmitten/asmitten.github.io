@@ -4,31 +4,47 @@ layout: page
 permalink: /CV
 ---
 
+### Research Interests & Translation Work
+
+Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Discourse Semantics; Greek and Latin Intertextuality; Hellenistic and Second Sophistic Scholarship
+
 ### Education
-**Indiana University - Bloomington**: 			
+
+#### Degrees Awarded
+**Indiana University, Bloomington**
+			
 	Ph. D.: 								August 2023 – May 2028 (expected)
 
 - Classical Studies
 - Advisor: [Bill Beck](https://classics.indiana.edu/about/core-faculty/beck-bill.html)
 - Dissertation: TBD
 
-**Utah State University**:
+**Utah State University**
+
 	Master of Arts:						August 2019 – May 2021
 
 - Ancient Languages and Cultures	
 - Advisor: [Mark Damen](https://artsci.usu.edu/history-cultures-ideas/history/directory/mark-damen)
 - Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
 
-**Vanderbilt University**:						
+**Vanderbilt University**
+						
 	Bachelor of Arts:					August 2015 – May 2019
 	
 - Major: Classical and Mediterranean Studies 
 - Major: Philosophy
 - Minor: Mathematics
 
+#### Non-Degree Training 
+
+**American School of Classical Studies at Athens**
+
+- Gennadius Library Medieval Greek Summer Session:	July 2025
+
 ### Teaching & Professional Experience 
 
 **Indiana University, Bloomington**
+
 - CLAS 101: Ancient Greek Culture (Teaching Assistant) (Spring 2026)
 - LATIN 200: Intermediate Latin (Associate Instructor) (Fall 2025)
 - LATIN 100: Beginning Latin (Associate Instructor) (Spring 2025)
@@ -37,6 +53,7 @@ permalink: /CV
 - CLAS 205: Classical Mythology (Teaching Assistant) (Fall 2023)
 
 **Utah State University**
+
 - GREEK 1010/1020: Summer Intensive Course (Instructor of Record, Program Co-Director) (Summer 2023)
 - HIST 3210: Classical Mythology (Instructor of Record) (Spring 2023)
 - HIST 3130: Greek History (Instructor of Record) (Fall 2022)
@@ -47,19 +64,22 @@ permalink: /CV
 - GREEK 1010/1020: Summer Intensive Course (Undergraduate Assistant) (Summer 2018)
 
 
-### Research Interests & Translation Work
-
-Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Discourse Semantics; Greek and Latin Intertextuality; Hellenistic and Second Sophistic Scholarship; Epicureanism & Didactic Poetry
-
-**Completed Translations**: 
+**Completed Translations**
 
 - [Translation and Transcription](https://artsci.usu.edu/history-cultures-ideas/classics/opportunities/latin-lab/translated-texts/heroica-eulogia.pdf) of Poetry in HM 160, Heroica Eulogia, William Bowyer (Co-editors: Mark Damen, Norman Jones, with Abigail Fritz, Dan Porter, Marie Skinner, and Tristan Andrus, Jonah Bibo, Alex Bullock, Jeremy Furner, Jacob Hayden, Jesse Killpack, Virginia McGuffin)
 - [Translation](https://doi.org/10.26076/458a-909f) of entire text of De Diversis Verborum Significationibus, Herennius Philo of Byblos 
 
-**Translations in Progress**:
+**Translations in Progress**
 
 - Translation of entire text of *On Syntax*, Apollonius Dyscolus
 - Translation of entire text of *De Differentia Adfinium Vocabulorum*, Ammonius Grammaticus
+
+### Academic Supervisory Experience
+
+**Utah State University**
+
+- GREEK 1010/1020: Summer Intensive Greek (2021, 2022, 2023): 6 graduate assistants, 1 undergraduate assistant
+- HIST 3130: Greek History (2022): 1 undergraduate assistant
 
 ### Languages 
 
@@ -69,6 +89,7 @@ Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Disc
 - **Imperial Aramaic**:	Proficiency in Reading
 - **Avestan**:			Working Knowledge
 - **Sanskrit**: 			Working Knowledge
+- **Hittite**:			Working Knowledge
 
 - **French**: 			Proficiency in Reading
 - **German**:			Proficiency in Reading
@@ -102,3 +123,23 @@ Panel Moderator and Gameplay Host for “Classical Antiquity through Board Games
 “Fortune and the Philosopher: The Language of ‘Chance’ in Plato’s Symposium,” Phi Alpha 	Theta Regional Conference, Logan, Utah, March 2020 (Suspended due to COVID-19)
 
 “Ancient Scholarship: From the Origins of Writing to Herennius Philo of Byblos,” Series of Four Lectures, Graduate Intern for HIST 3150, Utah State University, January – April 2020
+
+### Honors & Awards 
+
+**Indiana University, Bloomington**
+
+- Norman T. Pratt Travelling Fellowship (2025)
+- Alice Fox Award (2025)
+- Gertrude Johnson Scholarship (2025)
+
+**Utah State University**
+
+- Norm Jones & Cecile Gilmer Student Fellow (2021)
+
+**Vanderbilt University** 
+
+- Alpha Lambda Delta (Academic Honor Society)
+- Eta Sigma Phi (Classics Honor Society) (President of Psi Chapter, 2018-2019)
+- Phi Alpha Theta (History Honor Society)
+- Phi Beta Kappa (Academic Honor Society)
+- Phi Eta Sigma (Academic Honor Society)
