@@ -7,7 +7,7 @@ group:
 externalurl:
 embedurl: https://youtu.be/dQw4w9WgXcQ
 creationdate:
-type: video
+type: Video
 shortdesc: This is a sample to test Youtube embedding
 categories: [ Video, YouTube ]
 tags: [ Test, Embed ]
