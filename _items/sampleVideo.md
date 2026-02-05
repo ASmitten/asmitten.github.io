@@ -5,7 +5,7 @@ title: "Sample Youtube Video"
 contributor:
 group: 
 externalurl:
-embedurl: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+embedurl: https://youtu.be/dQw4w9WgXcQ
 creationdate:
 type: "video"
 shortdesc: "This is a sample to test Youtube embedding"
