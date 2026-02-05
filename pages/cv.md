@@ -12,8 +12,8 @@ Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Disc
 
 #### Degrees Awarded
 **Indiana University, Bloomington**
-			
-	Ph. D.: 								August 2023 – May 2028 (expected)
+
+Ph. D.: 								August 2023 – May 2028 (expected)
 
 - Classical Studies
 - Advisor: [Bill Beck](https://classics.indiana.edu/about/core-faculty/beck-bill.html)
@@ -21,15 +21,15 @@ Apollonius Dyscolus; Greek Lexicography and Historical Linguistics; Ancient Disc
 
 **Utah State University**
 
-	Master of Arts:						August 2019 – May 2021
+Master of Arts:						August 2019 – May 2021
 
 - Ancient Languages and Cultures	
 - Advisor: [Mark Damen](https://artsci.usu.edu/history-cultures-ideas/history/directory/mark-damen)
 - Thesis: [Herennius Philo and the Dilemma of Lexicography](https://doi.org/10.26076/458a-909f)
 
 **Vanderbilt University**
-						
-	Bachelor of Arts:					August 2015 – May 2019
+
+Bachelor of Arts:					August 2015 – May 2019
 	
 - Major: Classical and Mediterranean Studies 
 - Major: Philosophy
