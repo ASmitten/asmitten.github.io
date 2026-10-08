@@ -7,7 +7,7 @@ group: "Roberts Family Historical Collection"
 externalurl: 
 embedurl: 
 creationdate: Circa 1919
-type: "Photographic"
+type: "Photographic print, b&w"
 shortdesc: "Studio photograph of Dr. Carl Roberts in his Army Sanitary Core uniform."
 categories: [ Roberts, Medicine, Doctors, Portraits, World War I ]
 tags: [1910s, Dr Carl Roberts, Photographic print, B&W ]
